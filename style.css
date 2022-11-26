@@ -1,15 +1,30 @@
+
+
 body		{background-color: #C4EBC8;
-			font-family: Courier, monospace;}
+			font-family: Garamond, serif;
+			font-size: 18px;
+			}
 			
 h1			{color: #202A25;
 			letter-spacing:.5rem;
-			font-family: FreeMono, monospace; }
+			font-size: 50px;
+			}
 			
 h2			{color: #5F4BB6;
 			letter-spacing:.3rem;
-			font-family: FreeMono, monospace; }
+			font-size: 30px;
+			font-weight: bold;
+			}
 			
-p			{color: #202A25;}
+h3			{color: #5F4BB6;
+			letter-spacing: .3rem;
+			font-size: 22px;
+			font-weight: lighter;
+			}
+			
+p			{color: #202A25;
+			;
+			}
 
 a			{
 			font-weight: bold;
