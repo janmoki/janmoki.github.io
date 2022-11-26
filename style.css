@@ -39,7 +39,15 @@ a:hover		{color: #86A5D9;
 	border-style: groove;
 	border-color: #5F4BB6;
 	margin: 5px;
-	height: 250px;
 	background-color: #F9D4BB;
+
+}
+
+.innerbox {
+	border: 1px solid;
+	border-style: groove;
+	border-color: #5F4BB6;
+	margin: 5px;
+	background-color: #f9f3bb;
 
 }
