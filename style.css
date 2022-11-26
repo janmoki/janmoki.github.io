@@ -7,10 +7,12 @@ body		{background-color: #C4EBC8;
 			
 h1			{color: #202A25;
 			letter-spacing:.5rem;
+			text-shadow: 1px 1px 4px #2A2025;
 			font-size: 50px;
 			}
 			
 h2			{color: #5F4BB6;
+			text-shadow: 1px 1px 1px #4C3B93;
 			letter-spacing:.3rem;
 			font-size: 30px;
 			font-weight: bold;
