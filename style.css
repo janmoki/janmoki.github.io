@@ -46,7 +46,16 @@ img			{
 	border-color: #5F4BB6;
 	margin: 5px;
 	background-color: #F9D4BB;
+	max-width: 300px;
 
+}
+
+.box2 {
+	border: 1px solid;
+	border-style: groove;
+	border-color: #5F4BB6;
+	margin: 5px;
+	background-color: #F9D4BB;
 }
 
 .innerbox {
