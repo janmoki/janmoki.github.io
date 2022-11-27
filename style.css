@@ -11,14 +11,14 @@ h1			{color: #202A25;
 			font-size: 50px;
 			}
 			
-h2			{color: #5F4BB6;
-			text-shadow: 1px 1px 1px #4C3B93;
+h2			{color: #fc8e57;
+			text-shadow: 1px 1px 1px #41381a;
 			letter-spacing:.3rem;
 			font-size: 30px;
 			font-weight: bold;
 			}
 			
-h3			{color: #5F4BB6;
+h3			{color: #3c4a3e;
 			letter-spacing: .3rem;
 			font-size: 22px;
 			font-weight: lighter;
@@ -33,7 +33,7 @@ a			{
 			color: #202A25;
 			text-decoration: none;
 			}
-a:hover		{color: #86A5D9;
+a:hover		{color: #005bce;
 			}
 
 ol 			{
@@ -56,26 +56,26 @@ img			{
 .box {
 	border: 1px solid;
 	border-style: groove;
-	border-color: #5F4BB6;
+	border-color: #effdf0;
 	margin: 5px;
-	background-color: #F9D4BB;
-	max-width: 300px;
+	background: rgb(34,193,195);
+	background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 
 }
 
 .box2 {
 	border: 1px solid;
 	border-style: groove;
-	border-color: #5F4BB6;
+	border-color: #effdf0;
 	margin: 5px;
-	background-color: #F9D4BB;
+	background: rgb(34,193,195);
+	background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
 }
 
 .innerbox {
 	border: 1px solid;
-	border-style: groove;
-	border-color: #5F4BB6;
+	border-color: #effdf0;
 	margin: 5px;
-	background-color: #f9f3bb;
+	background-color: #ffefca;
 
 }
