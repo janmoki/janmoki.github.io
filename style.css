@@ -58,8 +58,8 @@ img			{
 	border-style: groove;
 	border-color: #effdf0;
 	margin: 5px;
-	background: rgb(34,193,195);
-	background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+	background: rgb(34,193,195,0.4);
+	background: linear-gradient(90deg, rgba(34,193,195,0.4) 0%, rgba(253,187,45,0.4) 100%);
 
 }
 
@@ -68,8 +68,9 @@ img			{
 	border-style: groove;
 	border-color: #effdf0;
 	margin: 5px;
-	background: rgb(34,193,195);
-	background: linear-gradient(90deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+	background: rgb(98, 288,255,0.3);
+	background: linear-gradient(45deg, rgba(98,228,255,0.3) 0%, rgba(0,52,75,0.3) 100%);
+
 }
 
 .innerbox {
@@ -78,4 +79,11 @@ img			{
 	margin: 5px;
 	background-color: #ffefca;
 
+}
+
+.innerbox2 {
+	border: 1px solid;
+	border-color: #dab9fb;
+	margin: 5px;
+	background-color: #e6f4f1;
 }
