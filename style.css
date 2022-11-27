@@ -76,7 +76,6 @@ img			{
 .innerbox {
 	border: 1px solid;
 	border-color: #effdf0;
-	margin: 5px;
 	background-color: #ffefca;
 
 }
@@ -84,6 +83,6 @@ img			{
 .innerbox2 {
 	border: 1px solid;
 	border-color: #dab9fb;
-	margin: 5px;
+	margin-right:10px;
 	background-color: #e6f4f1;
 }
