@@ -36,6 +36,19 @@ a			{
 a:hover		{color: #86A5D9;
 			}
 
+ol 			{
+			list-style-type: none;
+			}
+
+ul 			{
+			list-style-type: none;
+			}
+
+
+li			{
+			list-style-type: none;
+			}
+
 img			{
 			opacity: 0.2;
 			}
