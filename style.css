@@ -58,6 +58,7 @@ img			{
 	border: 1px solid;
 	border-style: groove;
 	border-color: #effdf0;
+	max-width: 375px;
 	margin: 5px;
 	background: rgb(34,193,195,0.4);
 	background: linear-gradient(90deg, rgba(34,193,195,0.4) 0%, rgba(253,187,45,0.4) 100%);
